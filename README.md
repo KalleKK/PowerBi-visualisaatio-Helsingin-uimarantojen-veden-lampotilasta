@@ -4,3 +4,6 @@ Tämä PowerBi visualisaatio on tehty hyödyntämällä avoindata.fi sivustolta 
 
 PowerBi visualisaatio taas päivittyy automaattisesti 12 kertaa päivässä. 
 
+Linkki PowerBi visualisointiin
+
+https://app.powerbi.com/view?r=eyJrIjoiOTg5MTZiMTQtYzQ5OC00NmZhLTkxOTAtYzI4YmNiM2QyMjhhIiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection
