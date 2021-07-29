@@ -1,1 +1,1 @@
-# Visualisaatio-Helsigin-uimarantojen-veden-lämpö-tilasta
+# Visualisaatio Helsigin uimarantojen-veden lämpötilasta
