@@ -2,7 +2,6 @@
 
 Tämä PowerBi Visualisointi on tehty hyödyntämällä avoindata.fi sivustolta löytyvää lähdettä nimeltä [Veden reaaliaikainen lämpötila Helsingin uimarannoilla](https://www.avoindata.fi/data/fi/dataset/veden-reaaliaikainen-lampotila-helsingin-uimarannoilla). Data päivittyy automaattisesti noin puolen tunnin välein, mutta joillakin rannoilla olevat mittarit päivittyvät useammin kuin muut. Hyödynsin Pythonia luodakseni koodin, joka puskee automaattisesti datan lähteestä SQL-tietokantaan, kahteen eri taulukkoon. Hyödynsin näitä kahta taulukkoa PowerBi visualisointia tehdessäni. PowerBi visualisointi päivittyy automaattisesti 4 tunnin välein Power Automaten avulla. Päivittyminen tarkoittaa, että PowerBi hakee visualisoinnissa käytettävän datan uudestaan SQL-taulukoista.
 
-PowerBi visualisointi pysyy datan päivityksen ansiosta jokseenkin ajan tasalla automaattisesti.
 
 
 Linkki PowerBi visualisointiin
